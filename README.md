@@ -25,7 +25,7 @@ The goal was to build a secure, scalable, and reliable network while following b
 ## Achievements
 
 - **1st Place** in **Network Pioneers Cup 2023**
-- ![[Piala.jpg]]
+- ![Piala](https://github.com/user-attachments/assets/1be0c3ec-1aad-4bae-bff8-01e3f6ab3535)
 - Successfully implemented a secure and scalable network infrastructure.
 
 Thank you for checking out our project!
